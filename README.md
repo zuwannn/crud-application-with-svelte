@@ -10,8 +10,7 @@ refrerence
 
 - <b> Write less code เขียนง่าย สั้น กระชับ ถ้าเคยลองตัวอื่นแล้วมาอ่าน doc แปปเดียวก็เขียนได้ 
 - <b> No virtual DOM เล็ก ไว และ overhead ต่ำกว่าเพราะไม่มี VirtualDOM 
-- <b> Truly reactive Sevelte compiler ที่จะแปลงโค้ดที่เราเขียนเป็น JavaScript ธรรมดา แต่ผ่านการ optimize เป็นอย่างดี 
-- <b> Truly reactive Sevelte compiler ที่จะแปลงโค้ดที่เราเขียนเป็น JavaScript ธรรมดา แต่ผ่านการ optimize เป็นอย่างดี 
+- <b> Truly reactive Sevelte compiler ที่จะแปลงโค้ดที่เราเขียนเป็น JavaScript ธรรมดา แต่ผ่านการ optimize เป็นอย่างดี
  
  
  
